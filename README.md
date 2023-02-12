@@ -1,0 +1,2 @@
+# datatahti
+learnings toward datatähti
