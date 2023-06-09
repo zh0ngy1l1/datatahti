@@ -7,5 +7,6 @@
 !*.ipynb
 !*.csv
 !suomi24crawler
+!suomi24crawler/crawlerResults
 !koodari
 !algoritmit
