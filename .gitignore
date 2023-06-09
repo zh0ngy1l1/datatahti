@@ -2,10 +2,8 @@
 !/.gitignore
 !/README.md
 !*.cpp
-!*.txt
 !*.py
 !*.ipynb
-!*.csv
 !suomi24crawler
 !suomi24crawler/crawlerResults
 !koodari
