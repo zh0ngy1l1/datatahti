@@ -1,0 +1,930 @@
+[
+    {
+        "@context": "http://schema.org",
+        "@type": "WebPage",
+        "name": "Elisa - p-a-s-k-a",
+        "description": "Suomi24 discussion thread",
+        "dateCreated": "2023-02-15T12:53:25.000Z",
+        "url": "https://keskustelu.suomi24.fi/t/17746121/elisa---p-a-s-k-a",
+        "inLanguage": "fi",
+        "potentialAction": {
+            "@type": "SearchAction",
+            "target": "https://keskustelu.suomi24.fi/haku?keyword={search_term_string}",
+            "query-input": "required name=search_term_string"
+        }
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "Corporation",
+        "description": "Suomi24 is a prominent Finnish online discussion, dating and chat platform where you can engage in wide variety of topics around the clock",
+        "name": "Suomi24",
+        "legalName": "Suomi24 Oy",
+        "sameAs": [
+            "https://fi.wikipedia.org/wiki/Suomi24",
+            "https://en.wikipedia.org/wiki/Suomi24",
+            "https://www.facebook.com/Suomi24fi/",
+            "https://www.instagram.com/suomi24fi/",
+            "https://twitter.com/suomi24fi",
+            "https://www.linkedin.com/company/suomi24"
+        ],
+        "url": "https://www.suomi24.fi",
+        "logo": "https://www.suomi24.fi/img/logos/s24_full_logo_green.png",
+        "parentOrganization": {
+            "@type": "Corporation",
+            "description": "News, mass media and marketing company",
+            "name": "Aller",
+            "legalName": "Aller Media Oy",
+            "sameAs": [
+                "https://www.facebook.com/allerfinland/",
+                "https://www.instagram.com/allerilaiset/",
+                "https://twitter.com/AllerMediaOy",
+                "https://www.linkedin.com/company/aller-media-oy/"
+            ],
+            "url": "https://www.aller.fi",
+            "logo": "https://www.aller.fi/wp-content/uploads/2019/05/aller_full_logo-400x156.png",
+            "parentOrganization": {
+                "@type": "Corporation",
+                "name": "Aller Holding",
+                "legalName": "Aller Holding A/S",
+                "url": "https://www.allerholding.dk",
+                "logo": "http://www.allerholding.dk/wp-content/uploads/2012/08/logo1.png"
+            }
+        }
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+            {
+                "@type": "ListItem",
+                "position": 1,
+                "item": {
+                    "@id": "https://keskustelu.suomi24.fi/",
+                    "@type": "WebPage",
+                    "name": "Keskustelu24",
+                    "url": "https://keskustelu.suomi24.fi/"
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 2,
+                "item": {
+                    "@id": "https://keskustelu.suomi24.fi/tiede-ja-teknologia",
+                    "@type": "WebPage",
+                    "name": "Tiede ja teknologia",
+                    "url": "https://keskustelu.suomi24.fi/tiede-ja-teknologia"
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 3,
+                "item": {
+                    "@id": "https://keskustelu.suomi24.fi/tiede-ja-teknologia/tietotekniikka",
+                    "@type": "WebPage",
+                    "name": "Tietotekniikka",
+                    "url": "https://keskustelu.suomi24.fi/tiede-ja-teknologia/tietotekniikka"
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 4,
+                "item": {
+                    "@id": "https://keskustelu.suomi24.fi/tiede-ja-teknologia/tietotekniikka/ohjelmat-ja-sovellukset",
+                    "@type": "WebPage",
+                    "name": "Ohjelmat ja sovellukset",
+                    "url": "https://keskustelu.suomi24.fi/tiede-ja-teknologia/tietotekniikka/ohjelmat-ja-sovellukset"
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 5,
+                "item": {
+                    "@id": "https://keskustelu.suomi24.fi/tiede-ja-teknologia/tietotekniikka/ohjelmat-ja-sovellukset/sahkoposti",
+                    "@type": "WebPage",
+                    "name": "Sähköposti",
+                    "url": "https://keskustelu.suomi24.fi/tiede-ja-teknologia/tietotekniikka/ohjelmat-ja-sovellukset/sahkoposti"
+                }
+            }
+        ]
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "Conversation",
+        "mainEntityOfPage": {
+            "@type": "WebPage",
+            "@id": "https://keskustelu.suomi24.fi/t/17746121/elisa---p-a-s-k-a"
+        },
+        "author": {
+            "@type": "Person",
+            "name": "Anonyymi",
+            "disambiguatingDescription": "Suomi24 anonymous user"
+        },
+        "dateCreated": "2023-02-15T12:53:25.000Z",
+        "headline": "Elisa - p-a-s-k-a",
+        "text": "Elisa ilmoittaa, että sähköpostipalvelun hinta nousee viiteen euroon. Perusteluna on, että nostamme hintaa, koska voimme.",
+        "comment": [
+            {
+                "downvoteCount": 0,
+                "upvoteCount": 0,
+                "author": {
+                    "@type": "Person",
+                    "name": "Anonyymi",
+                    "disambiguatingDescription": "Suomi24 anonymous user"
+                },
+                "comment": [
+                    {
+                        "downvoteCount": 0,
+                        "upvoteCount": 0,
+                        "author": {
+                            "@type": "Person",
+                            "name": "Anonyymi",
+                            "disambiguatingDescription": "Suomi24 anonymous user"
+                        },
+                        "dateCreated": "2023-02-15T13:16:44.000Z",
+                        "text": "Kärsinee varmaan otsalohkodementiasta.",
+                        "url": "https://keskustelu.suomi24.fi/t/17746121/elisa---p-a-s-k-a#comment-119174489"
+                    },
+                    {
+                        "downvoteCount": 0,
+                        "upvoteCount": 0,
+                        "author": {
+                            "@type": "Person",
+                            "name": "Anonyymi",
+                            "disambiguatingDescription": "Suomi24 anonymous user"
+                        },
+                        "dateCreated": "2023-02-15T13:41:18.000Z",
+                        "text": "Oi pellehermanni, kerro mitä kirjoituksessani oli väärin?",
+                        "url": "https://keskustelu.suomi24.fi/t/17746121/elisa---p-a-s-k-a#comment-119174900"
+                    },
+                    {
+                        "downvoteCount": 0,
+                        "upvoteCount": 0,
+                        "author": {
+                            "@type": "Person",
+                            "name": "Anonyymi",
+                            "disambiguatingDescription": "Suomi24 anonymous user"
+                        },
+                        "dateCreated": "2023-02-15T14:24:14.000Z",
+                        "text": "Elisa - p-a-s-k-a",
+                        "url": "https://keskustelu.suomi24.fi/t/17746121/elisa---p-a-s-k-a#comment-119175621"
+                    },
+                    {
+                        "downvoteCount": 0,
+                        "upvoteCount": 0,
+                        "author": {
+                            "@type": "Person",
+                            "name": "Anonyymi",
+                            "disambiguatingDescription": "Suomi24 anonymous user"
+                        },
+                        "dateCreated": "2023-02-15T15:19:58.000Z",
+                        "text": "Jos et vaavi sitä tajua, niin se oli tehokeino.",
+                        "url": "https://keskustelu.suomi24.fi/t/17746121/elisa---p-a-s-k-a#comment-119176675"
+                    },
+                    {
+                        "downvoteCount": 0,
+                        "upvoteCount": 0,
+                        "author": {
+                            "@type": "Person",
+                            "name": "Anonyymi",
+                            "disambiguatingDescription": "Suomi24 anonymous user"
+                        },
+                        "dateCreated": "2023-02-15T16:25:14.000Z",
+                        "text": "Olipa mikä hyvänsä, niin se on kirjoitettu väärin mutta ei siinä kaikki, oikolukuohjelma sanoo myös että "vaavi" on kirjoitettu väärin.<br /><br />Taidat todellakin olla kirjoitus taidoton, mutta kerro sinä miksi sinulla on jäänyt yleis-sivistykseen noin pahoja puutteita.",
+                        "url": "https://keskustelu.suomi24.fi/t/17746121/elisa---p-a-s-k-a#comment-119177860"
+                    },
+                    {
+                        "downvoteCount": 0,
+                        "upvoteCount": 0,
+                        "author": {
+                            "@type": "Person",
+                            "name": "Anonyymi",
+                            "disambiguatingDescription": "Suomi24 anonymous user"
+                        },
+                        "dateCreated": "2023-02-16T08:22:59.000Z",
+                        "text": "En kyllä sinuna elvistelisi "oikolukuohjelmillasi".<br /><br />Kirjoitus taidoton -&gt; pitää olla kirjoitustaidoton.<br />Yleis-sivistys-&gt; pitää olla yleissivistys.<br />Vaavi on ihan yleisesti käytössä oleva sana.<br />Pilkutkin on sinulta jääneet pois sivulauseista.",
+                        "url": "https://keskustelu.suomi24.fi/t/17746121/elisa---p-a-s-k-a#comment-119187093"
+                    },
+                    {
+                        "downvoteCount": 0,
+                        "upvoteCount": 0,
+                        "author": {
+                            "@type": "Person",
+                            "name": "Anonyymi",
+                            "disambiguatingDescription": "Suomi24 anonymous user"
+                        },
+                        "dateCreated": "2023-02-16T12:57:00.000Z",
+                        "text": "Hitsi, oliko tän keskustelun aihe "oikeinkirjoitus"?",
+                        "url": "https://keskustelu.suomi24.fi/t/17746121/elisa---p-a-s-k-a#comment-119191915"
+                    },
+                    {
+                        "downvoteCount": 0,
+                        "upvoteCount": 0,
+                        "author": {
+                            "@type": "Person",
+                            "name": "Anonyymi",
+                            "disambiguatingDescription": "Suomi24 anonymous user"
+                        },
+                        "dateCreated": "2023-04-06T07:42:40.000Z",
+                        "text": "jonnin joutavaa kirjotusvihreistä  lämpimikseen valittamista, Taitaa olla anonyymi-palstojen ainainen kesto-riesa nuo kaltaisesi infantiilikohtauksen saaneet :)",
+                        "url": "https://keskustelu.suomi24.fi/t/17746121/elisa---p-a-s-k-a#comment-120172030"
+                    }
+                ],
+                "dateCreated": "2023-02-15T13:14:13.000Z",
+                "text": "Miksi et osaa kirjoittaa ?",
+                "url": "https://keskustelu.suomi24.fi/t/17746121/elisa---p-a-s-k-a#comment-119174447"
+            },
+            {
+                "downvoteCount": 0,
+                "upvoteCount": 0,
+                "author": {
+                    "@type": "Person",
+                    "name": "Anonyymi",
+                    "disambiguatingDescription": "Suomi24 anonymous user"
+                },
+                "dateCreated": "2023-02-15T13:15:24.000Z",
+                "text": "v-a-p-u-n-e-n - p-a-s-k-a",
+                "url": "https://keskustelu.suomi24.fi/t/17746121/elisa---p-a-s-k-a#comment-119174464"
+            },
+            {
+                "downvoteCount": 0,
+                "upvoteCount": 0,
+                "author": {
+                    "@type": "Person",
+                    "name": "Anonyymi",
+                    "disambiguatingDescription": "Suomi24 anonymous user"
+                },
+                "comment": [
+                    {
+                        "downvoteCount": 0,
+                        "upvoteCount": 0,
+                        "author": {
+                            "@type": "Person",
+                            "name": "Anonyymi",
+                            "disambiguatingDescription": "Suomi24 anonymous user"
+                        },
+                        "dateCreated": "2023-02-15T15:23:13.000Z",
+                        "text": "Korotus on yli 70 prosenttia. Aluksi se oli ilmainen ja kuului osana laajakaistapakettia. Sitten siihen rätkäistiin hinnaksi 2,90 eur/kk. Nyt hinta korotuksen jälkeen 4,99 eur/kk. Nuo "parannukset" ovat kikkailua ja keinotekoista kosmetiikkaa.",
+                        "url": "https://keskustelu.suomi24.fi/t/17746121/elisa---p-a-s-k-a#comment-119176738"
+                    },
+                    {
+                        "downvoteCount": 0,
+                        "upvoteCount": 0,
+                        "author": {
+                            "@type": "Person",
+                            "name": "Anonyymi",
+                            "disambiguatingDescription": "Suomi24 anonymous user"
+                        },
+                        "dateCreated": "2023-02-16T13:01:22.000Z",
+                        "text": "Ei enää semmoista tilannetta tule, että Elisan asiakkaaksi menisin. Kaksi kertaa löin päätäni petäjään, ennen kun oikeasti tajusin, että firma on p-a-s-k-a ja asiakas"palvelu" ala-arvoista. Kyllä sieltä tekstaria tulee vähintään kerran kuukaudessa, jossa luvataan 9 hyvää ja 10 kaunista + ässän ostoskortteja. Jälkimmäinen suorastaan ärsyttään, en ole, enkä käytä mitään s-liikkeitä. Eikö näihin kytköksiin pitänyt puuttua??",
+                        "url": "https://keskustelu.suomi24.fi/t/17746121/elisa---p-a-s-k-a#comment-119191995"
+                    },
+                    {
+                        "downvoteCount": 0,
+                        "upvoteCount": 0,
+                        "author": {
+                            "@type": "Person",
+                            "name": "Anonyymi",
+                            "disambiguatingDescription": "Suomi24 anonymous user"
+                        },
+                        "dateCreated": "2023-02-16T13:48:39.000Z",
+                        "text": """Jälkimmäinen suorastaan ärsyttään, en ole, enkä käytä mitään s-liikkeitä. Eikö näihin kytköksiin pitänyt puuttua??""<br /><br />Mihin kytköksiin pitäisi jonkun puuttua ?? Yritykset saavat tehdä yhteistyötä muiden yritysten kanssa, ihan vapaasti,",
+                        "url": "https://keskustelu.suomi24.fi/t/17746121/elisa---p-a-s-k-a#comment-119192860"
+                    }
+                ],
+                "dateCreated": "2023-02-15T14:44:52.000Z",
+                "text": "Vajaa femma kuukaudessa !!!<br /><br />    Käyttöliittymä ja ulkoasu paranevat.<br />    •Roskapostisuodattimen asetukset, Lomavastaaja ja Automaattinen edelleenlähetys löytyvät jatkossa kätevästi Webmailista. Ominaisuudet poistuvat OmaElisasta.<br />    •Roskakoriin viedyt viestit saa takaisin vielä 90 päivää roskakorin tyhjentämisestä.<br />    •Itse määritellyistä osoitteista saapuvat tai määriteltyjä sanoja sisältävät viestit voi ohjata suoraan roskakoriin.<br />     <br /><br />Turvalliseen ja kotimaiseen Elisa Sähköpostipalveluun kuuluu edelleenkin viisi sähköpostiosoitetta, roskapostisuodatin ja virusturva. Palvelimet sijaitsevat Suomessa ja EU-alueella.",
+                "url": "https://keskustelu.suomi24.fi/t/17746121/elisa---p-a-s-k-a#comment-119176021"
+            },
+            {
+                "downvoteCount": 0,
+                "upvoteCount": 0,
+                "author": {
+                    "@type": "Person",
+                    "name": "Anonyymi",
+                    "disambiguatingDescription": "Suomi24 anonymous user"
+                },
+                "comment": [
+                    {
+                        "downvoteCount": 0,
+                        "upvoteCount": 0,
+                        "author": {
+                            "@type": "Person",
+                            "name": "Anonyymi",
+                            "disambiguatingDescription": "Suomi24 anonymous user"
+                        },
+                        "dateCreated": "2023-02-15T15:36:49.000Z",
+                        "text": "Etkös sä juonut koko eläkkeesi!",
+                        "url": "https://keskustelu.suomi24.fi/t/17746121/elisa---p-a-s-k-a#comment-119176955"
+                    },
+                    {
+                        "downvoteCount": 0,
+                        "upvoteCount": 0,
+                        "author": {
+                            "@type": "Person",
+                            "name": "Anonyymi",
+                            "disambiguatingDescription": "Suomi24 anonymous user"
+                        },
+                        "dateCreated": "2023-02-15T17:29:14.000Z",
+                        "text": "Joopa joo...<br /><br />Yli 20v Elisan asiakkaana, en ole huomannut useita hinnan korotuksia.",
+                        "url": "https://keskustelu.suomi24.fi/t/17746121/elisa---p-a-s-k-a#comment-119178992"
+                    },
+                    {
+                        "downvoteCount": 0,
+                        "upvoteCount": 0,
+                        "author": {
+                            "@type": "Person",
+                            "name": "Anonyymi",
+                            "disambiguatingDescription": "Suomi24 anonymous user"
+                        },
+                        "dateCreated": "2023-02-16T08:23:42.000Z",
+                        "text": "Ei se meidän vika ole, jos et ole huomannut.",
+                        "url": "https://keskustelu.suomi24.fi/t/17746121/elisa---p-a-s-k-a#comment-119187108"
+                    }
+                ],
+                "dateCreated": "2023-02-15T15:27:05.000Z",
+                "text": "Ihan samaa linjaa Elisa vetää liittymissään ,ilmoittelevat vaan vähänväliä uusia hintojaan ja ettei sinun tarvitse tehdä mitään , siis muuta kuin maksaa kiltisti , no meidän perheessä vaihtui  liittymät ja tosi tyytyväisiä ollaan , kustannukset laski huomattavasti.",
+                "url": "https://keskustelu.suomi24.fi/t/17746121/elisa---p-a-s-k-a#comment-119176798"
+            },
+            {
+                "downvoteCount": 0,
+                "upvoteCount": 0,
+                "author": {
+                    "@type": "Person",
+                    "name": "Anonyymi",
+                    "disambiguatingDescription": "Suomi24 anonymous user"
+                },
+                "comment": [
+                    {
+                        "downvoteCount": 0,
+                        "upvoteCount": 0,
+                        "author": {
+                            "@type": "Person",
+                            "name": "Anonyymi",
+                            "disambiguatingDescription": "Suomi24 anonymous user"
+                        },
+                        "dateCreated": "2023-02-16T13:01:08.000Z",
+                        "text": "Sähköpostien tapauksessa ei ole ilmaista lounasta, jollain ne ilmaiset sähköpostitkin maksetaan ja ne maksetaan sillä että myyvät käyttäjätietoja eteenpäin ja mainostavat! Eli yksityisyyttä ei niissä ole.",
+                        "url": "https://keskustelu.suomi24.fi/t/17746121/elisa---p-a-s-k-a#comment-119191988"
+                    },
+                    {
+                        "downvoteCount": 0,
+                        "upvoteCount": 0,
+                        "author": {
+                            "@type": "Person",
+                            "name": "Anonyymi",
+                            "disambiguatingDescription": "Suomi24 anonymous user"
+                        },
+                        "dateCreated": "2023-02-25T14:47:59.000Z",
+                        "text": "Tottakai hyvät palvelut tuotetaan. Ei kukaan maksa sähköpostista vuonna 2023.. Ihan hölmön hommaa moinen.",
+                        "url": "https://keskustelu.suomi24.fi/t/17746121/elisa---p-a-s-k-a#comment-119361154"
+                    },
+                    {
+                        "downvoteCount": 0,
+                        "upvoteCount": 0,
+                        "author": {
+                            "@type": "Person",
+                            "name": "Anonyymi",
+                            "disambiguatingDescription": "Suomi24 anonymous user"
+                        },
+                        "dateCreated": "2023-03-08T13:45:07.000Z",
+                        "text": "Ei kukaan tuota hyvää palvelua ilmaiseksi! Se minkä LUULET saavasi ilmaiseksi, kustannetaan sinun tiedoillasi ja yksityisyydelläsi eli menetät ne jos haluat ilmaisen palvelun!",
+                        "url": "https://keskustelu.suomi24.fi/t/17746121/elisa---p-a-s-k-a#comment-119565726"
+                    },
+                    {
+                        "downvoteCount": 0,
+                        "upvoteCount": 0,
+                        "author": {
+                            "@type": "Person",
+                            "name": "Anonyymi",
+                            "disambiguatingDescription": "Suomi24 anonymous user"
+                        },
+                        "dateCreated": "2023-03-08T18:17:50.000Z",
+                        "text": "Tuottaa ja ei ole väliä vaikka tietoja menisi firmalle. Ei ole 20-vuoteen niitä tullut julkisuuteen..",
+                        "url": "https://keskustelu.suomi24.fi/t/17746121/elisa---p-a-s-k-a#comment-119571081"
+                    },
+                    {
+                        "downvoteCount": 0,
+                        "upvoteCount": 0,
+                        "author": {
+                            "@type": "Person",
+                            "name": "Anonyymi",
+                            "disambiguatingDescription": "Suomi24 anonymous user"
+                        },
+                        "dateCreated": "2023-03-08T20:53:19.000Z",
+                        "text": "Totta hitossa on väliä jos tietoja menee ulkopuolisille firmoille! En minä ainakaan halua että tietojani menee jollekin kasvottomalle amerikkalaisfirmoille ja ties mille tiedusteluyhteisöille! Siksi mielummin maksan kotimaisesta palvelusta koska tiedän että tietoni pysyy vain sen firman hallussa!",
+                        "url": "https://keskustelu.suomi24.fi/t/17746121/elisa---p-a-s-k-a#comment-119573835"
+                    },
+                    {
+                        "downvoteCount": 0,
+                        "upvoteCount": 0,
+                        "author": {
+                            "@type": "Person",
+                            "name": "Anonyymi",
+                            "disambiguatingDescription": "Suomi24 anonymous user"
+                        },
+                        "dateCreated": "2023-04-06T07:46:15.000Z",
+                        "text": "Protonmaililla on ilmainen sähköposti eivätkä myy tietoja mainostajille. Kai muitakin vastaavia löytyy.",
+                        "url": "https://keskustelu.suomi24.fi/t/17746121/elisa---p-a-s-k-a#comment-120172086"
+                    }
+                ],
+                "dateCreated": "2023-02-16T11:53:14.000Z",
+                "text": "Luuletko vajakki, että ne palvelut tuotetaan ilmaiseksi?",
+                "url": "https://keskustelu.suomi24.fi/t/17746121/elisa---p-a-s-k-a#comment-119190739"
+            },
+            {
+                "downvoteCount": 0,
+                "upvoteCount": 0,
+                "author": {
+                    "@type": "Person",
+                    "name": "Anonyymi",
+                    "disambiguatingDescription": "Suomi24 anonymous user"
+                },
+                "dateCreated": "2023-02-16T12:54:14.000Z",
+                "text": "Jos viitsit lukea sen tiedotteen niin siinä sanottiin että sähköpostitila nousee 5-kertaiseksi eli 1000 Megaan eli teratavuun. SE nimenomaan oli perusteluna eikä se että nostamme hintaa koska voimme.",
+                "url": "https://keskustelu.suomi24.fi/t/17746121/elisa---p-a-s-k-a#comment-119191868"
+            },
+            {
+                "downvoteCount": 0,
+                "upvoteCount": 0,
+                "author": {
+                    "@type": "Person",
+                    "name": "Anonyymi",
+                    "disambiguatingDescription": "Suomi24 anonymous user"
+                },
+                "comment": [
+                    {
+                        "downvoteCount": 0,
+                        "upvoteCount": 0,
+                        "author": {
+                            "@type": "Person",
+                            "name": "Anonyymi",
+                            "disambiguatingDescription": "Suomi24 anonymous user"
+                        },
+                        "dateCreated": "2023-02-17T07:16:23.000Z",
+                        "text": "Kyllä maksaa jos aikoo saada turvallisen ja luotettavan sähköpostitilin, ilman että sitä lukee ulkopuoliset!",
+                        "url": "https://keskustelu.suomi24.fi/t/17746121/elisa---p-a-s-k-a#comment-119204436"
+                    },
+                    {
+                        "downvoteCount": 0,
+                        "upvoteCount": 0,
+                        "author": {
+                            "@type": "Person",
+                            "name": "Anonyymi",
+                            "disambiguatingDescription": "Suomi24 anonymous user"
+                        },
+                        "dateCreated": "2023-02-25T14:47:29.000Z",
+                        "text": "Ei sellaista saa edes maksamalla:D",
+                        "url": "https://keskustelu.suomi24.fi/t/17746121/elisa---p-a-s-k-a#comment-119361141"
+                    },
+                    {
+                        "downvoteCount": 0,
+                        "upvoteCount": 0,
+                        "author": {
+                            "@type": "Person",
+                            "name": "Anonyymi",
+                            "disambiguatingDescription": "Suomi24 anonymous user"
+                        },
+                        "dateCreated": "2023-02-25T14:50:07.000Z",
+                        "text": "Ei tietenkään maksa. Eurokin on liikaa.",
+                        "url": "https://keskustelu.suomi24.fi/t/17746121/elisa---p-a-s-k-a#comment-119361192"
+                    },
+                    {
+                        "downvoteCount": 0,
+                        "upvoteCount": 0,
+                        "author": {
+                            "@type": "Person",
+                            "name": "Anonyymi",
+                            "disambiguatingDescription": "Suomi24 anonymous user"
+                        },
+                        "dateCreated": "2023-03-08T13:45:46.000Z",
+                        "text": "Kyllä saa jos maksaa, vain vapunen on niin tyhmä ettei tajua tuota!",
+                        "url": "https://keskustelu.suomi24.fi/t/17746121/elisa---p-a-s-k-a#comment-119565743"
+                    },
+                    {
+                        "downvoteCount": 0,
+                        "upvoteCount": 0,
+                        "author": {
+                            "@type": "Person",
+                            "name": "Anonyymi",
+                            "disambiguatingDescription": "Suomi24 anonymous user"
+                        },
+                        "dateCreated": "2023-03-08T18:52:55.000Z",
+                        "text": "Vuonna 2149 maailma on tuhoutumassa ylikansoitukseen ja saasteisiin, suurin osa kasvillisuudesta ja eläinkunnasta on kuollut sukupuuttoon. Tiedemiehet ovat kuitenkin löytäneet aika-avaruusjatkumosta murtuman, jonka kautta on mahdollista matkustaa 85 miljoonaa vuotta menneisyyteen, liitukauden[7] maailmaan, rinnakkaisuniversumiin. Ihmiskunnan tulevaisuuden turvaamiseksi esihistoriaan päätetään perustaa siirtokunta, Terra Nova, jota johtaa ensimmäisenä aikaportin kautta kulkenut komentajakapteeni Nathaniel Taylor (Stephen Lang).[2]<br /><br />Kymmenennen siirtolaisryhmän mukana Terra Novaan saapuu siirtokunnan lääkäriksi värvätty Elisabeth Shannon (Shelley Conn) sekä hänen lapsensa, 17-vuotias poika Josh (Landon Liboiron) ja 15-vuotias tytär Maddy (Naomi Scott). Perheen isä Jim Shannon (Jason O’Mara) on entinen chicagolaispoliisi, joka on joutunut vankilaan perheen hankittua lainvastaisesti kolmannen lapsen, Zoen (Alana Mansour). Elisabeth auttaa Jimin pakenemaan vankilasta, että hän voi seurata perhettään Terra Novaan, ja myös salakuljettaa tyttärensä Zoen repussaan aikaportin läpi.[8]<br /><br />Saapumista seuraavana päivänä sairaalasta karannut potilas yrittää ampua Taylorin, mutta maatalouspalveluun määrätty Jim onnistuu estämään aikeen. Taylor vie Jimin ajelulle Terra Novan ulkopuolelle, ja kertoo miehen kuuluvan kuudennen siirtolaisryhmän mukana tulleisiin Kuutosiin (engl. Sixers), jotka ovat as",
+                        "url": "https://keskustelu.suomi24.fi/t/17746121/elisa---p-a-s-k-a#comment-119571798"
+                    }
+                ],
+                "dateCreated": "2023-02-16T13:00:24.000Z",
+                "text": "Ei kai kukaan maksa tänäpäivänä sähköpostitilistä mitään.",
+                "url": "https://keskustelu.suomi24.fi/t/17746121/elisa---p-a-s-k-a#comment-119191974"
+            },
+            {
+                "downvoteCount": 0,
+                "upvoteCount": 0,
+                "author": {
+                    "@type": "Person",
+                    "name": "Anonyymi",
+                    "disambiguatingDescription": "Suomi24 anonymous user"
+                },
+                "comment": [
+                    {
+                        "downvoteCount": 0,
+                        "upvoteCount": 0,
+                        "author": {
+                            "@type": "Person",
+                            "name": "Anonyymi",
+                            "disambiguatingDescription": "Suomi24 anonymous user"
+                        },
+                        "dateCreated": "2023-02-17T07:50:16.000Z",
+                        "text": "Osakeyhtiön ainoa tarkoitus on tuottaa osakkaille rahaa.",
+                        "url": "https://keskustelu.suomi24.fi/t/17746121/elisa---p-a-s-k-a#comment-119204970"
+                    }
+                ],
+                "dateCreated": "2023-02-17T07:28:02.000Z",
+                "text": "Elisan osakkeenomistajat kiittää kaikkia lompakkonsa avaavia. Osinkojen jatkuva kasvu on tavoitteena nyt ja aina.",
+                "url": "https://keskustelu.suomi24.fi/t/17746121/elisa---p-a-s-k-a#comment-119204614"
+            },
+            {
+                "downvoteCount": 0,
+                "upvoteCount": 0,
+                "author": {
+                    "@type": "Person",
+                    "name": "Anonyymi",
+                    "disambiguatingDescription": "Suomi24 anonymous user"
+                },
+                "dateCreated": "2023-02-17T16:38:57.000Z",
+                "text": "Kuka hullu enää maksaa sähköpostista? Ilmaiset ovat menneet maksullisten ohi jo 15-vuotta sitten!..",
+                "url": "https://keskustelu.suomi24.fi/t/17746121/elisa---p-a-s-k-a#comment-119214619"
+            },
+            {
+                "downvoteCount": 0,
+                "upvoteCount": 0,
+                "author": {
+                    "@type": "Person",
+                    "name": "Anonyymi",
+                    "disambiguatingDescription": "Suomi24 anonymous user"
+                },
+                "comment": [
+                    {
+                        "downvoteCount": 0,
+                        "upvoteCount": 0,
+                        "author": {
+                            "@type": "Person",
+                            "name": "Anonyymi",
+                            "disambiguatingDescription": "Suomi24 anonymous user"
+                        },
+                        "dateCreated": "2023-02-18T06:25:40.000Z",
+                        "text": "Ihan hyvä vaan että nostaa sähköpostin hintoja. Jospa silloin tyhmät älyäisivät vaihtaa ilmaisiin posteihin. Ne kun ovat olleet parempia jo yli 15-vuoden ajan..",
+                        "url": "https://keskustelu.suomi24.fi/t/17746121/elisa---p-a-s-k-a#comment-119222734"
+                    },
+                    {
+                        "downvoteCount": 0,
+                        "upvoteCount": 0,
+                        "author": {
+                            "@type": "Person",
+                            "name": "Anonyymi",
+                            "disambiguatingDescription": "Suomi24 anonymous user"
+                        },
+                        "dateCreated": "2023-02-22T07:04:54.000Z",
+                        "text": "Sinä pölvästi et tajua että ne ilmaiset ei oikeasti ole ilmaisia vaan ne rahoitetaan myymällä käyttäjätietoja eteenpäin! Eli mitään yksityisyyttä ei ole, toisinkuin maksullisissa posteissa!",
+                        "url": "https://keskustelu.suomi24.fi/t/17746121/elisa---p-a-s-k-a#comment-119294701"
+                    },
+                    {
+                        "downvoteCount": 0,
+                        "upvoteCount": 0,
+                        "author": {
+                            "@type": "Person",
+                            "name": "Anonyymi",
+                            "disambiguatingDescription": "Suomi24 anonymous user"
+                        },
+                        "dateCreated": "2023-02-25T14:46:58.000Z",
+                        "text": "Maksullisissa ei myöskään ole yksityisyyttä:D",
+                        "url": "https://keskustelu.suomi24.fi/t/17746121/elisa---p-a-s-k-a#comment-119361134"
+                    },
+                    {
+                        "downvoteCount": 0,
+                        "upvoteCount": 0,
+                        "author": {
+                            "@type": "Person",
+                            "name": "Anonyymi",
+                            "disambiguatingDescription": "Suomi24 anonymous user"
+                        },
+                        "dateCreated": "2023-03-08T13:46:50.000Z",
+                        "text": "Kyllä on nimenomaan maksullisissa posteissa se yksityisyys, vaikka sinä vapunen et sitä tajuakaan.",
+                        "url": "https://keskustelu.suomi24.fi/t/17746121/elisa---p-a-s-k-a#comment-119565758"
+                    },
+                    {
+                        "downvoteCount": 0,
+                        "upvoteCount": 0,
+                        "author": {
+                            "@type": "Person",
+                            "name": "Anonyymi",
+                            "disambiguatingDescription": "Suomi24 anonymous user"
+                        },
+                        "dateCreated": "2023-03-08T18:18:15.000Z",
+                        "text": "Vuonna 2149 maailma on tuhoutumassa ylikansoitukseen ja saasteisiin, suurin osa kasvillisuudesta ja eläinkunnasta on kuollut sukupuuttoon. Tiedemiehet ovat kuitenkin löytäneet aika-avaruusjatkumosta murtuman, jonka kautta on mahdollista matkustaa 85 miljoonaa vuotta menneisyyteen, liitukauden[7] maailmaan, rinnakkaisuniversumiin. Ihmiskunnan tulevaisuuden turvaamiseksi esihistoriaan päätetään perustaa siirtokunta, Terra Nova, jota johtaa ensimmäisenä aikaportin kautta kulkenut komentajakapteeni Nathaniel Taylor (Stephen Lang).[2]<br /><br />Kymmenennen siirtolaisryhmän mukana Terra Novaan saapuu siirtokunnan lääkäriksi värvätty Elisabeth Shannon (Shelley Conn) sekä hänen lapsensa, 17-vuotias poika Josh (Landon Liboiron) ja 15-vuotias tytär Maddy (Naomi Scott). Perheen isä Jim Shannon (Ja<br />Saapumista se",
+                        "url": "https://keskustelu.suomi24.fi/t/17746121/elisa---p-a-s-k-a#comment-119571096"
+                    },
+                    {
+                        "downvoteCount": 0,
+                        "upvoteCount": 0,
+                        "author": {
+                            "@type": "Person",
+                            "name": "Anonyymi",
+                            "disambiguatingDescription": "Suomi24 anonymous user"
+                        },
+                        "dateCreated": "2023-03-30T17:55:46.000Z",
+                        "text": "Järkevä ihminen kierrättää liittymiä muutaman vuoden välein muutenkin. Vanha asiakas on operaattoreille kullan arvoinen, maksaa aina eniten. Juuri vaihtuivat Elisan netti DNA;n 5G:hen ja Elisan kännykkäliittymä Telialle. Liittymän vaihtajalle on aina tarjolla hyviä hintoja. Kun tarjoukset loppuvat voi olla taas vaihto edessä, ellei saa hyvää jatkotarjousta. <br />ps. Tuo DNA;n 5G 400Mb on ollut käytännössä jatkuvasti noin 425Mb, ei valittamista.",
+                        "url": "https://keskustelu.suomi24.fi/t/17746121/elisa---p-a-s-k-a#comment-120028297"
+                    }
+                ],
+                "dateCreated": "2023-02-17T19:08:39.000Z",
+                "text": "Aloittaja puhuu asiaa.<br /><br />Alunperin sähköposti kuului omanaan nettiliittymään. Sen jälkeen hinnaksi laitettiin 2,90€, nyt sitten 5€. Siinä sellainen inflaatiokorotus.<br /><br />Itsellä on harmittavasti määräaikainen elisaviihde. Odotan sen muutaman kuukauden ja katkaisen kaikki yhteyteni Elisaan.<br /><br />Itsellä on 2 puhelinliittymää. Nettiliittymä ja juuri tuo viihde. Pyysin Elisalta useamman kerran, että siaisko nuo kaikki samalle laskulle. Ei, ei mahdollisuutta, kaikki eri laskulla. No minulla kuluttajana on oikeus äänestää "jaloilla" ja niin tein. Viihde jäi ja vielä se SP. Vaihtuvat satavarmasti kun sen aika tulee.<br /><br />70-80% hinnankorotus oli Elisan mielestä ilmoituskysymys. Turha ihannoida, että nyt on viilattu sitä ja tätä. Kapasiteettia kasvatettu jne. EN minä alun perinkään ole sellaista tarvinnut.<br /><br />Kerran tämä on keskustelupalsta, niin omana mielipiteenä toin Elisan vastuuttoman toiminnan MINUN mielestä esille. RYÖVÄRI toimintaa.",
+                "url": "https://keskustelu.suomi24.fi/t/17746121/elisa---p-a-s-k-a#comment-119217545"
+            },
+            {
+                "downvoteCount": 0,
+                "upvoteCount": 0,
+                "author": {
+                    "@type": "Person",
+                    "name": "Anonyymi",
+                    "disambiguatingDescription": "Suomi24 anonymous user"
+                },
+                "dateCreated": "2023-02-18T07:24:55.000Z",
+                "text": "Mix alkaja ei rekisteröi esim. Windowsin postia tai googlemailia, olen heittänyt kerrotun palveluntarjoajan ulos yrityksestä, ja koko suvusta eikä koskaan tule takaisin vaikka kuukausilaskutus olisi 0.00€",
+                "url": "https://keskustelu.suomi24.fi/t/17746121/elisa---p-a-s-k-a#comment-119223625"
+            },
+            {
+                "downvoteCount": 0,
+                "upvoteCount": 0,
+                "author": {
+                    "@type": "Person",
+                    "name": "Anonyymi",
+                    "disambiguatingDescription": "Suomi24 anonymous user"
+                },
+                "comment": [
+                    {
+                        "downvoteCount": 0,
+                        "upvoteCount": 0,
+                        "author": {
+                            "@type": "Person",
+                            "name": "Anonyymi",
+                            "disambiguatingDescription": "Suomi24 anonymous user"
+                        },
+                        "dateCreated": "2023-02-22T07:03:55.000Z",
+                        "text": "Ei Elisa uppoa, sehän teki juuri yhden historiansa parhaimman tuloksensa.",
+                        "url": "https://keskustelu.suomi24.fi/t/17746121/elisa---p-a-s-k-a#comment-119294689"
+                    },
+                    {
+                        "downvoteCount": 0,
+                        "upvoteCount": 0,
+                        "author": {
+                            "@type": "Person",
+                            "name": "Anonyymi",
+                            "disambiguatingDescription": "Suomi24 anonymous user"
+                        },
+                        "dateCreated": "2023-02-25T14:51:38.000Z",
+                        "text": "Eli näitä ahneita ja rikkaita mulkkuja ei kannata omilla rahoillaan ainakaan lisää enää rikastuttaa.",
+                        "url": "https://keskustelu.suomi24.fi/t/17746121/elisa---p-a-s-k-a#comment-119361220"
+                    }
+                ],
+                "dateCreated": "2023-02-21T22:12:30.000Z",
+                "text": "Nyt jos koska kannattaa vaihtaa operaattoeia! Elisa nostaa kaikkia hintoja vähitellen ku firma  tuottaa tappiota. Uppoavaa laivaa ei kannata tukea!",
+                "url": "https://keskustelu.suomi24.fi/t/17746121/elisa---p-a-s-k-a#comment-119291968"
+            },
+            {
+                "downvoteCount": 0,
+                "upvoteCount": 0,
+                "author": {
+                    "@type": "Person",
+                    "name": "Anonyymi",
+                    "disambiguatingDescription": "Suomi24 anonymous user"
+                },
+                "comment": [
+                    {
+                        "downvoteCount": 0,
+                        "upvoteCount": 0,
+                        "author": {
+                            "@type": "Person",
+                            "name": "Anonyymi",
+                            "disambiguatingDescription": "Suomi24 anonymous user"
+                        },
+                        "dateCreated": "2023-03-08T08:02:38.000Z",
+                        "text": "Kukaan ei tarvitse operaattoreiden maksullisia posteja,.,.",
+                        "url": "https://keskustelu.suomi24.fi/t/17746121/elisa---p-a-s-k-a#comment-119559512"
+                    },
+                    {
+                        "downvoteCount": 0,
+                        "upvoteCount": 0,
+                        "author": {
+                            "@type": "Person",
+                            "name": "Anonyymi",
+                            "disambiguatingDescription": "Suomi24 anonymous user"
+                        },
+                        "dateCreated": "2023-03-08T13:48:40.000Z",
+                        "text": "Kyllä tarvitsee! Minä en ottaisi Gmailia tai Outlookia vaikka minulle siitä maksettaisiin!",
+                        "url": "https://keskustelu.suomi24.fi/t/17746121/elisa---p-a-s-k-a#comment-119565792"
+                    },
+                    {
+                        "downvoteCount": 0,
+                        "upvoteCount": 0,
+                        "author": {
+                            "@type": "Person",
+                            "name": "Anonyymi",
+                            "disambiguatingDescription": "Suomi24 anonymous user"
+                        },
+                        "dateCreated": "2023-03-08T18:18:43.000Z",
+                        "text": "Sitten olet harvinaisen tyhmä yksilö tässä maailmassa..",
+                        "url": "https://keskustelu.suomi24.fi/t/17746121/elisa---p-a-s-k-a#comment-119571116"
+                    },
+                    {
+                        "downvoteCount": 0,
+                        "upvoteCount": 0,
+                        "author": {
+                            "@type": "Person",
+                            "name": "Anonyymi",
+                            "disambiguatingDescription": "Suomi24 anonymous user"
+                        },
+                        "dateCreated": "2023-03-08T20:54:57.000Z",
+                        "text": "Ei, vaan SINÄ olet harvinaisen tyhmä yksilö jos luulet että ilmaisposti on oikeasti ilmainen!",
+                        "url": "https://keskustelu.suomi24.fi/t/17746121/elisa---p-a-s-k-a#comment-119573858"
+                    },
+                    {
+                        "downvoteCount": 0,
+                        "upvoteCount": 0,
+                        "author": {
+                            "@type": "Person",
+                            "name": "Anonyymi",
+                            "disambiguatingDescription": "Suomi24 anonymous user"
+                        },
+                        "dateCreated": "2023-03-08T21:11:18.000Z",
+                        "text": "Se on ilmainen:)",
+                        "url": "https://keskustelu.suomi24.fi/t/17746121/elisa---p-a-s-k-a#comment-119574081"
+                    },
+                    {
+                        "downvoteCount": 0,
+                        "upvoteCount": 0,
+                        "author": {
+                            "@type": "Person",
+                            "name": "Anonyymi",
+                            "disambiguatingDescription": "Suomi24 anonymous user"
+                        },
+                        "dateCreated": "2023-03-31T06:38:28.000Z",
+                        "text": "Ei ole ilmainen ja Vapunen lakkaapa sotkemasta näitä palstoja typerillä kommenteillasi!",
+                        "url": "https://keskustelu.suomi24.fi/t/17746121/elisa---p-a-s-k-a#comment-120036418"
+                    }
+                ],
+                "dateCreated": "2023-03-08T07:37:30.000Z",
+                "text": "Entä jos ei tarvitse jättimäistä 1000 Mt:n tallennustilaa?",
+                "url": "https://keskustelu.suomi24.fi/t/17746121/elisa---p-a-s-k-a#comment-119559045"
+            },
+            {
+                "downvoteCount": 0,
+                "upvoteCount": 0,
+                "author": {
+                    "@type": "Person",
+                    "name": "Anonyymi",
+                    "disambiguatingDescription": "Suomi24 anonymous user"
+                },
+                "dateCreated": "2023-03-08T13:51:12.000Z",
+                "text": "Elisalle sanon "en koskaan enää ota teidän "palvelujanne,jotka on täyttä paskaa, asiakaspalvelu ala-arvoista, mikään ei toimi.",
+                "url": "https://keskustelu.suomi24.fi/t/17746121/elisa---p-a-s-k-a#comment-119565839"
+            },
+            {
+                "downvoteCount": 0,
+                "upvoteCount": 0,
+                "author": {
+                    "@type": "Person",
+                    "name": "Anonyymi",
+                    "disambiguatingDescription": "Suomi24 anonymous user"
+                },
+                "comment": [
+                    {
+                        "downvoteCount": 0,
+                        "upvoteCount": 0,
+                        "author": {
+                            "@type": "Person",
+                            "name": "Anonyymi",
+                            "disambiguatingDescription": "Suomi24 anonymous user"
+                        },
+                        "dateCreated": "2023-03-08T18:19:18.000Z",
+                        "text": "Onhan se kummaa että ihmiset edelleen käyttää näitä roskaposteja vaikka parempia ilmaisia on ollut saatavilla kohta 20-vuoden ajan..",
+                        "url": "https://keskustelu.suomi24.fi/t/17746121/elisa---p-a-s-k-a#comment-119571127"
+                    },
+                    {
+                        "downvoteCount": 0,
+                        "upvoteCount": 0,
+                        "author": {
+                            "@type": "Person",
+                            "name": "Anonyymi",
+                            "disambiguatingDescription": "Suomi24 anonymous user"
+                        },
+                        "dateCreated": "2023-03-08T20:55:47.000Z",
+                        "text": "Ei ne ilmaiset mitään parempia ole, vähän väliä ihmisillä on ongelmia niiden kanssa, sekä se että kaikki yksityisyys on mennyttä!",
+                        "url": "https://keskustelu.suomi24.fi/t/17746121/elisa---p-a-s-k-a#comment-119573870"
+                    },
+                    {
+                        "downvoteCount": 0,
+                        "upvoteCount": 0,
+                        "author": {
+                            "@type": "Person",
+                            "name": "Anonyymi",
+                            "disambiguatingDescription": "Suomi24 anonymous user"
+                        },
+                        "dateCreated": "2023-03-08T21:11:31.000Z",
+                        "text": "On paljon parempia:)",
+                        "url": "https://keskustelu.suomi24.fi/t/17746121/elisa---p-a-s-k-a#comment-119574087"
+                    },
+                    {
+                        "downvoteCount": 0,
+                        "upvoteCount": 0,
+                        "author": {
+                            "@type": "Person",
+                            "name": "Anonyymi",
+                            "disambiguatingDescription": "Suomi24 anonymous user"
+                        },
+                        "dateCreated": "2023-03-31T06:39:04.000Z",
+                        "text": "Ei ilmaiset ole parempia vaan huonompia, usko jo se senkin vapunen!",
+                        "url": "https://keskustelu.suomi24.fi/t/17746121/elisa---p-a-s-k-a#comment-120036431"
+                    },
+                    {
+                        "downvoteCount": 0,
+                        "upvoteCount": 0,
+                        "author": {
+                            "@type": "Person",
+                            "name": "Anonyymi",
+                            "disambiguatingDescription": "Suomi24 anonymous user"
+                        },
+                        "dateCreated": "2023-03-31T11:01:48.000Z",
+                        "text": "Sands on ollut kaksi kertaa naimisissa, 1980-luvulla Sarah Sandsin kanssa ja vuodesta 1990 nykyisen vaimonsa Evgenia Citkowitzin kanssa. Hänellä on kolme lasta, yksi Sarah Sandsin ja kaksi Citkowitzin kanssa.<br /><br />Sands on asunut Kaliforniassa 1980-luvulta alkaen. 13. tammikuuta 2023 Sandsin uutisoitiin kadonneen hänen lähdettyä vaeltamaan viikkoa aiemmin Mount San Antonion alueella Los Angelesin koillispuolella. Lumiset olosuhteet vaikeuttavat etsintöjä.[1]",
+                        "url": "https://keskustelu.suomi24.fi/t/17746121/elisa---p-a-s-k-a#comment-120042413"
+                    }
+                ],
+                "dateCreated": "2023-03-08T16:38:55.000Z",
+                "text": "Onhan se kummallista, että sähköpostipalvelu kuuluu osaksi nettipakettia, mutta sitten myöhemmin se hinnoitellaan erikseen. Vaikka sinänsä kustannus ei tunnu missään, niin toiminta silti ärsyttää.",
+                "url": "https://keskustelu.suomi24.fi/t/17746121/elisa---p-a-s-k-a#comment-119569075"
+            },
+            {
+                "downvoteCount": 0,
+                "upvoteCount": 0,
+                "author": {
+                    "@type": "Person",
+                    "name": "Anonyymi",
+                    "disambiguatingDescription": "Suomi24 anonymous user"
+                },
+                "comment": [
+                    {
+                        "downvoteCount": 0,
+                        "upvoteCount": 0,
+                        "author": {
+                            "@type": "Person",
+                            "name": "Anonyymi",
+                            "disambiguatingDescription": "Suomi24 anonymous user"
+                        },
+                        "dateCreated": "2023-03-30T17:30:07.000Z",
+                        "text": "Hyvä vaan että kasvaa. Ymmärtää vähä-älyiset siirtyä käyttämään Gmailia tai Outlookia näin 15-vuotta myöhässä..",
+                        "url": "https://keskustelu.suomi24.fi/t/17746121/elisa---p-a-s-k-a#comment-120027662"
+                    },
+                    {
+                        "downvoteCount": 0,
+                        "upvoteCount": 0,
+                        "author": {
+                            "@type": "Person",
+                            "name": "Anonyymi",
+                            "disambiguatingDescription": "Suomi24 anonymous user"
+                        },
+                        "dateCreated": "2023-03-31T06:37:05.000Z",
+                        "text": "Nimenomaan vähä-älyiset käyttää jotain Gmailia tai Outlookia!",
+                        "url": "https://keskustelu.suomi24.fi/t/17746121/elisa---p-a-s-k-a#comment-120036386"
+                    },
+                    {
+                        "downvoteCount": 0,
+                        "upvoteCount": 0,
+                        "author": {
+                            "@type": "Person",
+                            "name": "Anonyymi",
+                            "disambiguatingDescription": "Suomi24 anonymous user"
+                        },
+                        "dateCreated": "2023-03-31T11:02:04.000Z",
+                        "text": "Ei vaan viisaat:)",
+                        "url": "https://keskustelu.suomi24.fi/t/17746121/elisa---p-a-s-k-a#comment-120042420"
+                    }
+                ],
+                "dateCreated": "2023-03-30T17:21:03.000Z",
+                "text": "Elisa on kyllä täysi paska ja rahan ahne pulju.<br /><br />Viimeisen 2 vuoden aikana elisan puhelinliittymäni hinta on neljästi vaihtanut nimeä, ja kuinkas ollakkaan joka perkeleen kerta kuukausimaksu on noussut.<br /><br />Sitten alkoi tämä elisan sähköpostilla rahastus, ja kuinkas ollakkaan, senkin hinnan ilmoitettiin nyt nousevan 5 euroon, mutta että oikein ruhtinaallisesti sähköpostin tila kasvaa?! Mitä helvettiä teen suuremmalla sähköpostilla???<br /><br />Kuinkas ollakkaan sitten, nyt löytyi sähköpostista ilmoitus, että sähköpostiin toimitettavan laskuun tulee euron hinta (alkuun).   <br /><br />Onko tuollla perkeleen elisalla vielä joku, mistä ja minkä voivat muuttaa hinnalliseksi?  <br />Alkaa nimitttäin mitta täyttyä koko puljua, ja pian kuuluu bye bye lopullisesti.",
+                "url": "https://keskustelu.suomi24.fi/t/17746121/elisa---p-a-s-k-a#comment-120027460"
+            },
+            {
+                "downvoteCount": 0,
+                "upvoteCount": 0,
+                "author": {
+                    "@type": "Person",
+                    "name": "Anonyymi",
+                    "disambiguatingDescription": "Suomi24 anonymous user"
+                },
+                "dateCreated": "2023-04-03T14:34:58.000Z",
+                "text": "Minä haistatin paskat Elisalle ja irtisanoin sen. Jo loppuu kuppaaminen.",
+                "url": "https://keskustelu.suomi24.fi/t/17746121/elisa---p-a-s-k-a#comment-120116182"
+            }
+        ]
+    }
+]
