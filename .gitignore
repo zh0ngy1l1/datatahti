@@ -4,5 +4,6 @@
 !*.cpp
 !*.txt
 !*.py
+!suomi24crawler
 !koodari
 !algoritmit
