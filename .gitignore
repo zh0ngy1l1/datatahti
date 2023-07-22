@@ -9,5 +9,5 @@
 !/koodari
 !/algoritmit
 !/algoritmit/rust_programs
-!/algoritmit/rust_programs/*
+!/algoritmit/rust_programs/test.py
 !/algoritmit/rust_programs/*/src
