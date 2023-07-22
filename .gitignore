@@ -8,3 +8,8 @@
 !suomi24crawler/crawlerResults
 !koodari
 !algoritmit
+!algoritmit/rust_programs
+!algoritmit/rust_programs/*
+!src
+!*.rs
+!*.toml
