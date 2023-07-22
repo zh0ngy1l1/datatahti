@@ -4,12 +4,10 @@
 !*.cpp
 !*.py
 !*.ipynb
-!suomi24crawler
-!suomi24crawler/crawlerResults
-!koodari
-!algoritmit
-!algoritmit/rust_programs
-!algoritmit/rust_programs/*
-!src
+!/koodari
+!/algoritmit
+!/algoritmit/rust_programs
+!/algoritmit/rust_programs/*
+!/algoritmit/rust_programs/*/src
 !*.rs
 !*.toml
