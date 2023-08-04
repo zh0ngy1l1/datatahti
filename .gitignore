@@ -3,7 +3,6 @@
 !/README.md
 !**/*.cpp
 !**/*.py
-!**/*.ipynb
 !**/*.rs
 !**/*.toml
 !/koodari
