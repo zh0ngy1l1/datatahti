@@ -1,3 +1,5 @@
+# https://cses.fi/dt/task/359, 1.10.2023
+
 import time
 import sys
 
