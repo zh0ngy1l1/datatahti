@@ -5,8 +5,6 @@
 !**/*.py
 !**/*.rs
 !**/*.toml
-!/koodari
-!/algoritmit
-!/algoritmit/rust_programs
-!/algoritmit/rust_programs/test.py
-!/algoritmit/rust_programs/*/src
+!/cses_problems
+!/cses_problems/*
+!/datatahti_valm

@@ -1,4 +1,4 @@
-// https://cses.fi/alon/task/1068/ 12.3.2023
+// https://cses.fi/problemset/task/1068/ 12.3.2023
 
 #include <bits/stdc++.h>
 using namespace std;
