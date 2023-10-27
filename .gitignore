@@ -3,8 +3,8 @@
 !/README.md
 !**/*.cpp
 !**/*.py
-!**/*.rs
-!**/*.toml
+!**/test_input.txt
 !/cses_problems
 !/cses_problems/*
 !/datatahti_valm
+!/datatahti_valm/*
