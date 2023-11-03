@@ -3,7 +3,7 @@ import random
 
 letters = [i for i in "abcdefghijklmnopqrstuvwxyz"]
 
-l = 20
+l = 100
 output = ""
 
 active_numbers = []
