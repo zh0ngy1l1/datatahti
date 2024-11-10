@@ -3,11 +3,7 @@
 !/README.md
 !**/*.cpp
 !**/*.py
-!**/test_input.txt
-!/cses_problems
-!/cses_problems/*
-!/datatahti_valm
-!/datatahti_valm/*
 !2024_alku
 !2024_alku/*
-
+!2025_alku
+!2025_alku/*
