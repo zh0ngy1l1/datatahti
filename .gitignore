@@ -1,9 +1,8 @@
 *
 !*.gitignore
+!chapter*
+!chapter*/p*
 !/README.md
 !**/*.cpp
 !**/*.py
-!2024_alku
-!2024_alku/*
-!2025_alku
-!2025_alku/*
+
