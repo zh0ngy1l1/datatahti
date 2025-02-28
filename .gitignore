@@ -1,5 +1,9 @@
 *
 !*.gitignore
+!math
+!math/*.txt
+!math/*.ipynb
+
 !chapter*
 !chapter*/p*
 !/README.md
