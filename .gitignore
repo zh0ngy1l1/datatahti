@@ -4,6 +4,8 @@
 !math/*.txt
 !math/*.ipynb
 
+!lisatehtavat
+!lisatehtavat/p*
 !chapter*
 !chapter*/p*
 !/README.md
