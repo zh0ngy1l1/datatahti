@@ -4,8 +4,7 @@
 !math/*.txt
 !math/*.ipynb
 !docs
-!docs/*
-!docs/Italy\ says\ can\ exit\ EU\ deficit\ procedure\ in\ 2026,\ ahead\ of\ schedule\ _\ Reuters/*
+!docs/italy-deficit_files
 
 !lisatehtavat
 !chapter*
