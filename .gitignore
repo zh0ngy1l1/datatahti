@@ -3,6 +3,8 @@
 !math
 !math/*.txt
 !math/*.ipynb
+!docs
+!docs/*
 
 !lisatehtavat
 !chapter*
