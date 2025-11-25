@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+<body>
+  <div id="login">
+    <input type="password" id="pw" placeholder="Enter password">
+    <button id="btn">Unlock</button>
+  </div>
+  <div id="content"></div>
+
+  <script>
+  async function load() {
+    const pw = document.getElementById('pw').value;
+    const enc = new Uint8Array(await fetch('secret.html.enc').then(r => r.arrayBuffer()));
+
+    const salt = enc.slice(0, 16);
+    const iv = enc.slice(16, 28);
+    const tag = enc.slice(28, 44);
+    const data = enc.slice(44);
+    const ciphertext = new Uint8Array([...data, ...tag]);
+
+    const keyMaterial = await crypto.subtle.importKey("raw", new TextEncoder().encode(pw), "PBKDF2", false, ["deriveKey"]);
+    const key = await crypto.subtle.deriveKey(
+      { name: "PBKDF2", salt, iterations: 100000, hash: "SHA-256" },
+      keyMaterial, { name: "AES-GCM", length: 256 }, false, ["decrypt"]
+    );
+
+    try {
+      const dec = await crypto.subtle.decrypt({ name: "AES-GCM", iv }, key, ciphertext);
+      document.getElementById('login').remove(); // remove password box
+      document.getElementById('content').innerHTML = new TextDecoder().decode(dec);
+    } catch (e) {
+      alert("Wrong password or corrupted file");
+    }
+  }
+
+  // trigger unlock on Enter
+  document.getElementById('pw').addEventListener('keydown', e => {
+    if (e.key === 'Enter') load();
+  });
+
+  // trigger unlock on button click
+  document.getElementById('btn').addEventListener('click', load);
+  </script>
+</body>
+</html>
